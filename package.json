@@ -4,6 +4,7 @@
   "description": "insta backend",
   "main": "app.js",
   "scripts": {
+    "build":"npm i && npm build",
     "test": "jest",
     "start": "nodemon app.js",
     "dev": "nodemon app.js",
